@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Eduardo Winter<br>Águas Mornas - SC<br>04/12/2006<br>Cursando Full Stack JAVA na EBAC<br>Formando-se em engenharia de Software na Estácio<br>
+Eduardo Winter<br>Águas Mornas - SC<br>04/12/2006<br>Full Stack JAVA na EBAC<br>Formando-se em engenharia de Software na Estácio<br>
 
 
 ## 🌐 Redes Sociais:
