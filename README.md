@@ -3,7 +3,7 @@ Eduardo Winter<br>Águas Mornas - SC<br>04/12/2006<br>Full Stack JAVA na EBAC<br
 
 
 ## 🌐 Redes Sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/eduardo_winterr) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardowinterbr@gmail.com) [![linkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/eduardo-winter-45abb0301/)
+[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardowinterbr@gmail.com) [![linkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/eduardo-winter-45abb0301/)
 
 # 💻 Tecnologias:
 
